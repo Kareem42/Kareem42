@@ -1,7 +1,29 @@
 - 👋 Hi, I’m Justin Catrell Alcendor
-- 👀 I’m interested in an entry level Java Developer or Web Developer position
-- 🌱 I’m currently learning HTML, CSS, and JavaScript while refreshing my skills in Java and learn Spring Framework.
-- 💞️ I’m looking to collaborate on any entry level projects that will allow me to grow my skill set.
+- 👀 I’m interested in an Frontend Web Developer position
+- 🌱 My skills include the following: 
+- HTML
+- CSS
+- Semnatic UI
+- NPM
+- DOM Manipulation
+- Asychronous JavaScript
+- React + Redux + React Hooks
+- Git & GitHub
+- Express.js
+- Node.js
+- Vite.js
+- Bootstrap
+- PostgresSQL
+- SQL
+- Security
+- Authentication
+- Authorization
+- Scalable Infrastructure
+- Production and Deployment
+- RESTful API Design
+- Responsive Design
+-  
+- 💞️ I’m looking to collaborate on any projects that will allow me to grow my skill set.
 - 📫 You can reach via email at Kareem4209@gmail.com or my cell phone (337) 326-1013.
 
 <!---
