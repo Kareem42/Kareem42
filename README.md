@@ -24,7 +24,7 @@
 - Responsive Design
 -  
 - 💞️ I’m looking to collaborate on any projects that will allow me to grow my skill set.
-- 📫 You can reach via email at Kareem4209@gmail.com or my cell phone (337) 326-1013.
+- 📫 You can reach via email at kareem4209@gmail.com
 
 <!---
 Kareem42/Kareem42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
