@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin Catrell Alcendor
-- 👀 I’m interested in an Frontend Web Developer position
+- 👀 I’m interested in an Frontend Web Developer or Data Analyst role
 - 🌱 My skills include the following: 
 - HTML
 - CSS
@@ -14,7 +14,11 @@
 - Vite.js
 - Bootstrap
 - PostgresSQL
-- SQL
+- MySQL
+- Excel
+- Tableau
+- Power Query
+- Power Pivot
 - Security
 - Authentication
 - Authorization
