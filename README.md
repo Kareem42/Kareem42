@@ -2,6 +2,9 @@
 - 👀 I’m interested in an Frontend Web Developer or Data Analyst role
 - 🌱 My skills include the following: 
 - HTML
+- MongoDB
+- CI/CD
+- Agile
 - CSS
 - Semnatic UI
 - NPM
