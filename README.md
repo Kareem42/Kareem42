@@ -14,6 +14,13 @@
 - Bootstrap, Semantic UI
 - Vite.js
 
+### Backend Development
+- Java
+- Spring
+- Springboot
+- Hibernate
+- Microservices
+
 ### Business Intelligence
 - Excel, Tableau
 - Power Query, Power Pivot
@@ -21,6 +28,7 @@
 - SQL (PostgresSQL, MySQL)
 
 ### Additional Technical Skills
+- Data Structures & Algorithms
 - MongoDB
 - Node.js, Express.js
 - RESTful API Design
