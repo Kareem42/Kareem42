@@ -1,7 +1,7 @@
 ---
 # About Me
 
-👋 Hi, I’m Justin Catrell Alcendor, an aspiring Frontend Developer and Business Intelligence enthusiast. I am passionate about creating dynamic and interactive user interfaces while leveraging data-driven insights to make informed decisions.
+👋 Hi, I’m Justin Catrell Alcendor, an Full Stack Developer and Business Intelligence enthusiast. I am passionate about creating dynamic and interactive user interfaces while leveraging data-driven insights to make informed decisions.
 
 ## Skills
 
